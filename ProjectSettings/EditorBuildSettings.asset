@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 4f4ff37426e903a48b5503525df5872f
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 8f031a351292deb48b35b9d921f90bba
+  - enabled: 1
+    path: Assets/Scenes/MenuMultiplayer.unity
+    guid: 35c72df25768c514fb438617724c23dc
+  - enabled: 1
+    path: Assets/Scenes/TangramSingle.unity
+    guid: c312f320cac48ad4c90c08239abe1310
+  - enabled: 1
+    path: Assets/Scenes/TangramMulti.unity
+    guid: b014ecdde79c56a4daa4f0d9cff89210
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 852b1148a29a35442ac8bbeacd90adb7
+  - enabled: 1
+    path: Assets/Scenes/GameOverMultiplayer.unity
+    guid: 4433e382d8d44e64e8376e4f805ef5fc
+  - enabled: 1
+    path: Assets/Scenes/WinMultiplayer.unity
+    guid: a549f93e7e1ce1846be6ac19f74bbf62
+  m_configObjects: {}
